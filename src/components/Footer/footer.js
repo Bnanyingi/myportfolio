@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class footer extends Component {
+class Footer extends Component {
   render() {
 
     if(this.props.data){
@@ -31,4 +31,4 @@ class footer extends Component {
   }
 }
 
-export default footer;
+export default Footer;

@@ -38,7 +38,7 @@
       },
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"https://github.com/Bnanyingi",
         "className":"fa fa-github"
       },
       {
@@ -66,16 +66,16 @@
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"SpringBoard Marketing Company",
+        "title":"Brand Ambassador ",
+        "years":"02-Feb-2019 - 05-May-2019",
+        "description":"I promoted the brand and introduced customers to the brand which was Nescafe.I normally had a target which was to make sure I interact with as many customers andmake them familiar with the brand"
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Franstat Stationers",
+        "title":"Junior bug fixer and Web Design Intern",
+        "years":"January 2020 - March 2020",
+        "description":"I worked as an Intern and we designed several websites and web applications.I also debugged several codes for the company"
       }
     ],
     "skills":[

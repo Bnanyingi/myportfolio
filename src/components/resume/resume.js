@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class resume extends Component {
+class Resume extends Component {
   render() {
 
     if(this.props.data){
@@ -76,4 +76,4 @@ class resume extends Component {
   }
 }
 
-export default resume;
+export default Resume;
