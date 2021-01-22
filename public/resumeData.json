@@ -3,7 +3,7 @@
     "name":"  Barbara Nanyingi",
     "occupation":"(Software engineer and AI developer",
     "description":"I'm a final year student at the Catholic University of Eastern Africa,specializing in Artificial Intelligence and Software Engineering. I develop websites and web applications.I also have a dep interest in the AI sector and try coming up with solutions so as to help solve problems encountered globally",
-    "image":"",
+    "image":"./images/image1.JPG",
     "bio":"I love coding, Have learnt several languages such as python,Java,javascript,SQL,ReactJS. I also have a deep interest in Photography, Robotics and Automation",
     "contactmessage":"For any details or inquiries about my services I will give out my contact ",
     "email": "nanyingibarbara@gmail.com",
@@ -56,12 +56,6 @@
         "degree":"Bachelor in Computer Science",
         "graduated":"May 2022",
         "description":"I study Computer Science and Specialized in Artificial Intelligence and Software Development"
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
     ],
     "work":[
@@ -84,12 +78,12 @@
         "level":"60%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name":"Kotlin",
+        "level":"80%"
       },
       {
         "name":"ReactJs",
-        "level":"50%"
+        "level":"60%"
       },
       {
         "name":"CSS",
@@ -100,26 +94,32 @@
         "level":"80%"
       },
       {
-        "name":"VueJs",
-        "level":"50%"
+        "name":"Python",
+        "level":"90%"
       },
       {
-        "name":"MongoDB",
+        "name":"SQL",
+        "level":"80%"
+      },
+      {
+        "name":"Java",
         "level":"80%"
       }
+
+
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"TicTacToe with AI",
+        "category":"A game which has AI features",
+        "image":"",
+        "url":""
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
+        "title":"Gikosh E-commerce website",
+        "category":"",
         "image":"fury-fighting-gear.jpg",
         "url":"http://www.timbakerdev.com"
       },
