@@ -119,21 +119,21 @@
       },
       {
         "title":"Gikosh E-commerce website",
-        "category":"",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "category":"Its an e-commerce website I created for a clothing store",
+        "image":"",
+        "url":""
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
+        "title":"Detection of cancer in patients using SVM algorithm",
+        "category":"It is a project about the detection of breast cancer in patients",
         "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "url":""
       },
       {
         "title":"Resume Website",
         "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "image":"",
+        "url":""
       },
       {
         "title":"Smirkspace",
@@ -146,12 +146,12 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"Barbara is a really hardworking girl, Very talented and can do wonders",
+        "user":"Triza Oyolo, Supervisor at SpringBoard Marketing"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"That Barbara must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired her yet. Hey you, you should hire this girl, she may be fresh out of University and have zero on the job experience but I am confident that she will be one of your best developers in no time!",
+        "user":"  Alex Mungurey, Md Franstat Stationers"
       }
     ]
   }
