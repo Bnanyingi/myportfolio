@@ -4,10 +4,10 @@ import $ from 'jquery';
 import Header from './components/header/Header';
 import Footer from './components/Footer/Footer';
 import About from './components/About/About';
-import Resume from './components/Resume/Resume';
+import Resume from './components/resume/Resume';
 import Contact from './components/Contact/Contact';
-import Testimonials from './components/Testimonials/Testimonials';
-import Portfolio from './components/Portfolio/Portfolio';
+import Testimonials from './components/testimonials/Testimonials';
+import Portfolio from './components/portfolio/Portfolio';
 
 class App extends Component {
 
